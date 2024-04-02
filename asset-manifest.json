@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Customer_Labs/static/css/main.4a5259be.css",
+    "main.js": "/Customer_Labs/static/js/main.a7c53300.js",
+    "index.html": "/Customer_Labs/index.html",
+    "main.4a5259be.css.map": "/Customer_Labs/static/css/main.4a5259be.css.map",
+    "main.a7c53300.js.map": "/Customer_Labs/static/js/main.a7c53300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5259be.css",
+    "static/js/main.a7c53300.js"
+  ]
+}
