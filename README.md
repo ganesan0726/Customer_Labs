@@ -11,11 +11,6 @@ Technologies Used : HTML, CSS, Javascript, React and GitHub.
 
  Un comment the lines in the app.js  for checking the data transfer to temporary server.
 
-
- ## Documents uploaded  
- A video which shows the working of the entire application.
- Images which is taken from different device resolutions for presenting the responsiveness. (check out the documents folder under the Mycomponents folder)
-
  ## Links uploaded 
  A link that will directly allows you to the website to see its functionality and 
  it is uploaded by using "gh pages " in github.
